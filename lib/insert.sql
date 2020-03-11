@@ -1,1 +1,1 @@
-INSERT INTO bears VALUES ("Mr. Chocolate")
+INSERT INTO bears VALUES ("Mr. Chocolate", 1,, "male", "red", "happy", true)
